@@ -34,7 +34,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Worldoflotfi/Worldoflotfi/output/github-snake.svg" />
 </picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Worldoflotfi&" alt="Worldoflotfi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Worldoflotfi&" alt="Worldoflotfi" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=worldoflotfi&show_icons=true&locale=en&layout=compact" alt="worldoflotfi" /></p>
 
 
