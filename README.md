@@ -35,7 +35,7 @@
 </picture>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Worldoflotfi&" alt="Worldoflotfi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=worldoflotfi&show_icons=true&locale=en&layout=compact" alt="worldoflotfi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Worldoflotfi&show_icons=true&locale=en&layout=compact" alt="Worldoflotfi" /></p>
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/@Lotfy96272766" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
