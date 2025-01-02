@@ -44,5 +44,5 @@
 <a target="_blank" href="https://stackoverflow.com/users/Lotfy (18446775)" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p href="mailto:medamineltf100@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail Icon" style="vertical-align: middle; margin-right: 8px;">
-  medamineltf100@gmail.com
+  <span style="margin-bottom: 9px;">medamineltf100@gmail.com</span> 
 </p>
