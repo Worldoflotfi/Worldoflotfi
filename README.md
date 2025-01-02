@@ -42,4 +42,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/mohamed-amine-lotfiii-" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/lotfyyyyyyyyy" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/Lotfy (18446775)" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:medamineltf100@gmail.com) medamineltf100@gmail.com
+<p href="mailto:medamineltf100@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail Icon" style="vertical-align: middle; margin-right: 8px;">
+  medamineltf100@gmail.com
+</p>
