@@ -43,6 +43,7 @@
 <a target="_blank" href="https://www.instagram.com/lotfyyyyyyyyy" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/Lotfy (18446775)" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p>email:</p>
+
 <a href="mailto:medamineltf100@gmail.com"
   medamineltf100@gmail.com 
 </a>
