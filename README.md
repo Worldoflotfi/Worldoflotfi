@@ -36,7 +36,6 @@
 </picture>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=worldoflotfi&" alt="worldoflotfi" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Worldoflotfi&show_icons=true&locale=en&layout=compact" alt="Worldoflotfi" /></p>
 
 <h2>⚡️ Where to find me</h2>
