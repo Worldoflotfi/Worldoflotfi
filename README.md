@@ -35,7 +35,14 @@
 </picture>
 
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Worldoflotfi&theme=github-dark" alt="GitHub Streak" /></a> 
+     
+   <a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=Worldoflotfi&theme=github-dark&timezone=Africa%2FCasablanca"
+    alt="GitHub Streak"
+  />
+</a>
+
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Worldoflotfi&show_icons=true&locale=en&layout=compact" alt="Worldoflotfi" /></p> --> 
 </p>
 
